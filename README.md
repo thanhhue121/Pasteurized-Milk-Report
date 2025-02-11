@@ -43,6 +43,5 @@ Beyond leading brands like **Vinamilk and TH True Milk**, the **‘Others’** c
 - **Suggested actions:**
   - Offer **discounts, bundle deals, or loyalty rewards** to encourage customers to **buy in bulk**.
   - Highlight the **cost-effectiveness of Carton purchases** compared to smaller packaging.
-  
 ---
 🛒 **Data Source:** Sendo Farm e-commerce
