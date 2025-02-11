@@ -24,16 +24,16 @@ These metrics offer a **concise summary** of business performance during this pe
 ## Highlights & Insights
 Data is segmented into **4 categories** to deliver actionable insights:**Brand, Packaging, Sugar Type, Pack Size**
 
-### **Performance Variations Across Brands**
+### **1. Performance Variations Across Brands**
 - **TH True Milk:** Customers prefer **carton packaging, ‘less sugar’ types, and the 180ml specification**.
 - **Vinamilk:** Strong sales for **both carton and single packs**. Sugar type shows no distinct preference, but **1L and 220ml sizes** are slightly more favored.
 
-### **Niche Product Trends**
+### **2. Niche Product Trends**
 Beyond leading brands like **Vinamilk and TH True Milk**, the **‘Others’** category ranks **third in both sales and volumes**.
 - Popular niche products: **‘sữa dinh dưỡng,’ ‘sữa béo,’ ‘sữa nguyên chất,’ ‘sữa nguyên kem’**.
 - Competitive pricing strategies likely contribute to this growth, supported by a **2 million VND subsidy**.
 
-### **Health-Conscious Trends**
+### **3. Health-Conscious Trends**
 - The **‘less sugar’ type consistently emerges as the top choice** across all categories, suggesting a growing trend toward **health-conscious consumption**.
 
 ## Recommendations & Growth Opportunities
