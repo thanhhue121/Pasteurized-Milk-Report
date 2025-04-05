@@ -1,11 +1,15 @@
-# Pasteurized-Milk-Sales-Performance-Dashboard
+# 🥛 Pasteurized-Milk-Sales-Performance-Dashboard
 An analysis of pasteurized milk sales performance on Sendo Farm e-commerce from 15/12/2024 to 31/12/2024
 
-## Overview
+## 📊 Visualization 
+
+![Quick View of Milk Report](https://github.com/thanhhue121/Pasteurized-Milk-Report/blob/main/Milk%20report%20-%20Quick%20view.jpg?raw=true)
+
+## 📋 Overview
 The top section highlights **5 key metrics**: **Total sales, Subsidies, Milk volumes, Customers, Average spending per person**
 These metrics offer a **concise summary** of business performance during this period.
 
-## Key Findings
+## 🔍 Key Findings
 ### **1. Sales Performance Overview**
 - **Total sales:** 520 million VND
 - **Subsidies:** 9 million VND
@@ -21,7 +25,7 @@ These metrics offer a **concise summary** of business performance during this pe
 - **Vinamilk** demonstrates **the most efficient subsidy use**, requiring just **52 VND per customer** while achieving **58,991 VND in average spending**.
 - **Lothamilk** shows the weakest performance, requiring **4,663 VND subsidy per customer** while generating only **40,772 VND in average spending**—indicating inefficient subsidy utilization.
 
-## Highlights & Insights
+## 🚨 Highlights & Insights
 Data is segmented into **4 categories** to deliver actionable insights:**Brand, Packaging, Sugar Type, Pack Size**
 
 ### **1. Performance Variations Across Brands**
@@ -36,7 +40,7 @@ Beyond leading brands like **Vinamilk and TH True Milk**, the **‘Others’** c
 ### **3. Health-Conscious Trends**
 - The **‘less sugar’ type consistently emerges as the top choice** across all categories, suggesting a growing trend toward **health-conscious consumption**.
 
-## Recommendations & Growth Opportunities
+## ️🏆 Recommendations & Growth Opportunities
 #### **Bulk Purchase Strategy**
 - Despite having only **748 orders**, **Carton packaging generates the highest revenue**.
 - **Single Pack and Multi Pack have a higher number of orders but lower revenue than Carton**.
